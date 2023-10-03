@@ -1,0 +1,29 @@
+{
+    "status": 200,
+    "clientes": [
+        {
+            "name": "Rosa Analuz",
+            "distancia": "3",
+            "variable": "km",
+            "record": "4.2",
+            "saldo": "10.5",
+            "destino": "Av. Siempre Viva 123"
+        },
+        {
+            "name": "Mariana Medina",
+            "distancia": "2",
+            "variable": "km",
+            "record": "3.2",
+            "saldo": "15.5",
+            "destino": "San Isidro La targea"
+        },
+        {
+            "name": "Dylan Yandel Romario",
+            "distancia": "2",
+            "variable": "km",
+            "record": "1.2",
+            "saldo": "50.5",
+            "destino": "Barrios Altos - Huerta Perdida"
+        }
+    ]
+}
